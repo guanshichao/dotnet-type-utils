@@ -24,7 +24,7 @@ namespace Rotorz.Games.Reflection
         /// <returns>
         /// An array of zero-or-more types.
         /// </returns>
-        public static Type[] DiscoveredImplementations<T>()
+        public static Type[] DiscoverImplementations<T>()
         {
             return DiscoverImplementations(typeof(T));
         }

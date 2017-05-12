@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/dotnet-type-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functionality for reflection and type discovery in .NET.",
   "main": "index.js",
   "scripts": {
