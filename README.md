@@ -1,13 +1,9 @@
 # dotnet-type-utils
 
-[![npm version](https://badge.fury.io/js/%40rotorz%2Fdotnet-type-utils.svg)](https://badge.fury.io/js/%40rotorz%2Fdotnet-type-utils)
-[![Dependency Status](https://david-dm.org/rotorz/dotnet-type-utils.svg)](https://david-dm.org/rotorz/dotnet-type-utils)
-[![devDependency Status](https://david-dm.org/rotorz/dotnet-type-utils/dev-status.svg)](https://david-dm.org/rotorz/dotnet-type-utils#info=devDependencies)
-
 Utility functionality for reflection and type discovery in .NET.
 
 ```sh
-$ npm install --save @rotorz/dotnet-type-utils
+$ npm install --save rotorz/dotnet-type-utils
 ```
 
 This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
