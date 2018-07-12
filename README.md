@@ -3,10 +3,13 @@
 Utility functionality for reflection and type discovery in .NET.
 
 ```sh
-$ npm install --save rotorz/dotnet-type-utils
+$ yarn add rotorz/dotnet-type-utils
 ```
 
-This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
+This package is compatible with the [unity3d-package-syncer][tool] tool. Refer to the
+tools' [README][tool] for information on syncing packages into a Unity project.
+
+[tool]: https://github.com/rotorz/unity3d-package-syncer
 
 
 ## Contribution Agreement
